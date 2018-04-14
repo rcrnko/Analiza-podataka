@@ -1,2 +1,3 @@
 # Analiza-podataka
-Zadaća
+
+Ovdje se nalazi moja prva zadaća iz kolegija Matematički softver.
